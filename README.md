@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @ponrat1993
+ - 👋 Hi, I’m @ponrat1993
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+https://maps.app.goo.gl/cNNPhjVuKGwtcryn9
 <!---
 ponrat1993/ponrat1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://www.android.com/enterprise/solutions-finder-microsoft/?recommended=android-emm&selectedFeatures=device-listing,enforce-pin-or-passcode,wipe-data-remotely,distribute-apps,remote-deployment-and-inventory-management,manage-lost-devices,separate-work-personal-data,configure-settings-and-networks,enable-kiosk-mode,pre-configure-apps
